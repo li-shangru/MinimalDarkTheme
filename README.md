@@ -1,5 +1,8 @@
 # Minimal Dark Theme
 
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/akjfdocgccjidcoighgemcppkabmcpmd)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/akjfdocgccjidcoighgemcppkabmcpmd)
+
 ## Introduction
 
 A minimal, clean and elegant dark theme for Chromium-based browsers.
