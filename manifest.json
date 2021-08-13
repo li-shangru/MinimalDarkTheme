@@ -1,6 +1,6 @@
 {
   "name": "Minimal Dark Theme",
-  "version": "1.1",
+  "version": "2.0",
   "description": "A minimal, clean and elegant dark theme.",
   "manifest_version" : 3,
   "icons": {
@@ -13,26 +13,26 @@
       "frame": [25, 25, 25],
       "frame_inactive": [30, 30, 30],
       "frame_incognito": [15, 15, 15],
-      "frame_incognito_inactive": [30, 30, 30],
-      "toolbar": [30, 30, 30],
-      "toolbar_button_icon": [222, 255, 255],
-      "tab_text": [238, 255, 255],
+      "frame_incognito_inactive": [25, 25, 25],
+      "background_tab": [25, 25, 25],
+      "background_tab_inactive": [30, 30, 30],
+      "background_tab_incognito": [15, 15, 15],
+      "background_tab_incognito_inactive": [25, 25, 25],
+      "bookmark_text": [238, 255, 255],
+      "button_background": [25, 25, 25],
       "tab_background_text": [223, 223, 223],
       "tab_background_text_inactive": [170, 170, 170],
       "tab_background_text_incognito": [238, 255, 255],
       "tab_background_text_incognito_inactive": [170, 170, 170],
-      "bookmark_text": [238, 255, 255],
-      "button_background": [25, 25, 25],
+      "tab_text": [238, 255, 255],
+      "toolbar": [30, 30, 30],
+      "toolbar_button_icon": [222, 255, 255],
+      "omnibox_text": [238, 255, 255],
+      "omnibox_background": [30, 30, 30],
       "ntp_background": [30, 30, 30],
       "ntp_header": [235, 235, 235],
       "ntp_link": [249, 186, 82],
-      "ntp_text": [238, 255, 255],
-      "omnibox_text": [238, 255, 255],
-      "omnibox_background": [30, 30, 30]
-    },
-    "images": {
-      "theme_tab_background": "images/theme_tab_background.png",
-      "theme_toolbar": "images/theme_toolbar.png"
+      "ntp_text": [238, 255, 255]
     }
   }
 }

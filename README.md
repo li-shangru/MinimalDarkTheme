@@ -28,4 +28,6 @@ Color theme perfectly matches the dark theme on most of the websites, applicatio
 
 ## Screenshot
 
-![Minimal Dark Theme on Google Chrome](/screenshot.png)
+| New Tab Page    | Incognito Mode    |
+| :------------: | :----------: |
+| ![A new tab page on Google Chrome](/screenshot.png) | ![A new tab page in incognito mode](/screenshot_incognito.png) |
