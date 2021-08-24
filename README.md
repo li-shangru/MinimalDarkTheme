@@ -7,9 +7,9 @@
 
 ## Introduction
 
-A minimal, clean and elegant dark theme for Chromium-based browsers.
+A minimal, clean and elegant dark theme.
 
-Color theme perfectly matches the dark theme on most of the websites, applications and OS.
+Color theme perfectly matches the dark theme on most of the websites, applications and operating systems.
 
 ## Installation
 
