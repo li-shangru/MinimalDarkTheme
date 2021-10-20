@@ -3,7 +3,7 @@
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/akjfdocgccjidcoighgemcppkabmcpmd)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/akjfdocgccjidcoighgemcppkabmcpmd)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/akjfdocgccjidcoighgemcppkabmcpmd)
-![GitHub](https://img.shields.io/github/license/maxsli/MinimalDarkTheme)
+![GitHub](https://img.shields.io/github/license/li-shangru/MinimalDarkTheme)
 
 ## Introduction
 
